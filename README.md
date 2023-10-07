@@ -21,4 +21,4 @@ __RANDOM__
 ## Find Me on :
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/100000532777797)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/100000532777797)
-[![Github](https://img.shields.io/badge/Github-FB-KINGgreen?style=for-the-badge&logo=github)](https://github.com/MR-DAVID-404)
+[![Github](https://img.shields.io/badge/Github-MR-DAVID-404green?style=for-the-badge&logo=github)](https://github.com/MR-DAVID-404)
